@@ -19,7 +19,7 @@ Built for fixed-wing pilots who want to fly the Hudson corridor legally and with
 All points use the exact names and coordinates published on the current New York TAC and FAA SFRA documentation.
 
 ### Download the latest release
-[New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zipt](https://github.com/ingramleedy/New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip?raw=true)
+[sss]([https://github.com/ingramleedy/New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip](https://github.com/ingramleedy/New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip)?raw=true)
 
 ### Installation instructions
 1. Download the file `New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip` on your iPad or iPhone  
