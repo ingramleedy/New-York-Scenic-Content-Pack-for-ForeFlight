@@ -19,10 +19,10 @@ Built for fixed-wing pilots who want to fly the Hudson corridor legally and with
 All points use the exact names and coordinates published on the current New York TAC and FAA SFRA documentation.
 
 ### Download the latest release
-https://github.com/ingramleedy/HudsonRiverSFRAFFContentPack/releases/latest
+[New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zipt](https://github.com/ingramleedy/New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip?raw=true)
 
 ### Installation instructions
-1. Download the file `HudsonRiverSFRAFFContentPack-vX.X.zip` on your iPad or iPhone  
+1. Download the file `New-York-Scenic-Content-Pack-for-ForeFlight/blob/main/NY%20Hudson%20River%20and%20East%20River%20Exclusion%20SFRA.zip` on your iPad or iPhone  
 2. Tap the file – ForeFlight will open automatically and recognize the content pack  
 3. Tap "Import" (you can preview everything with "View" first)  
 4. Turn the layer on: Maps → Layers → Hudson River SFRA (bottom of the right column)
@@ -40,8 +40,5 @@ Inspired by the pioneering work of Forum user “Mark” who, around 2019, creat
 Original thread: https://www.diamondaviators.net/forum/viewtopic.php?t=6756  
 Thank you, Mark.
 
-### License
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
-https://creativecommons.org/licenses/by-sa/4.0/
 
 Fly the corridor right the first time — see you over the Hudson!
