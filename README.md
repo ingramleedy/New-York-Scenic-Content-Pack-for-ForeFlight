@@ -1,4 +1,5 @@
-# HudsonRiverSFRAFFContentPack
+# New-York-Scenic-Content-Pack-for-ForeFlight
+
 
 **Hudson River & East River SFRA + Statue of Liberty**  
 A ForeFlight Content Pack
