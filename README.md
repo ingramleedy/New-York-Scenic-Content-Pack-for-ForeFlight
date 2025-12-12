@@ -1,53 +1,47 @@
-# New York Scenic – Aerial Photo & Sightseeing Waypoints for ForeFlight
+# HudsonRiverSFRAFFContentPack
 
-![Preview](preview.jpg) <!-- optional: add a screenshot of the map layer -->
+**Hudson River & East River SFRA + Statue of Liberty**  
+A ForeFlight Content Pack
 
-## Overview
-This ForeFlight content pack adds a custom map layer with the best aerial sightseeing spots in New York State. Every waypoint has been personally flown and photographed by local pilots. Each entry includes:
-- Recommended photo altitude & heading
-- Best season/time of day (when known)
-- Embedded preview photo (visible in ForeFlight)
-- Brief pilot notes (noise-sensitive areas, helicopter traffic, etc.)
+Clean, accurate, color-coded reporting points and general navigation waypoints for safely and correctly flying the New York Class B Hudson River and East River Special Flight Rules Area (SFRA), including the exact Statue of Liberty orbit and SFRA exclusion boundaries.
 
-## Current Highlights (v1.0 – December 2025)
-- Niagara Falls (American & Horseshoe) – multiple orbits
-- Letchworth State Park (“Grand Canyon of the East”)
-- Finger Lakes from Watkins Glen to Canandaigua
-- Lake Placid & the High Peaks
-- Hudson River Valley castles (Vanderbilt, Bannerman, etc.)
-- Boldt Castle & Thousand Islands
-- Adirondack fire towers & remote lakes
-- New York City skyline (Class B compliant routes)
-- Walkway Over the Hudson
-- Saratoga Springs racetrack pattern photos
-…and many more being added regularly.
+Built for fixed-wing pilots who want to fly the Hudson corridor legally and with complete situational awareness.
 
-## Installation
-1. Download the latest release ZIP file:  
-   https://github.com/YOURUSERNAME/NewYorkScenicFFContentPack/releases
-2. Open the ZIP on your iPad/iPhone — ForeFlight will detect it automatically.
-3. Tap “Import” → “View” to preview.
-4. Enable the layer: Maps → Layers → New York Scenic (bottom of right column).
+### What this pack includes
+- All official northbound and southbound Hudson River reporting points  
+  (Alpine Tower → Verrazzano-Narrows Bridge)  
+- East River reporting points (where fixed-wing remain allowed)  
+- Statue of Liberty clockwise orbit waypoints (Liberty 1–9) at the correct 1,100 ft MSL radius  
+- General navigation waypoints for common entry/exit routes and transitions  
+- Skyline Transition entry/exit waypoints  
+- SFRA exclusion boundary as a visible magenta polygon (matches the FAA chart exactly)
 
-## Updating
-ForeFlight will notify you when a new version is available if you imported from a GitHub release (recommended).  
-Alternatively, just re-download the latest ZIP and import again — ForeFlight will replace the old version.
+All points use the exact names and coordinates published on the current New York TAC and FAA SFRA documentation.
 
-## Contributing
-Found a new amazing spot? Took a better photo?  
-→ Open an issue or submit a pull request!  
-We especially need fall foliage shots and winter ice volcano photos of Niagara.
+### Download the latest release
+https://github.com/ingramleedy/HudsonRiverSFRAFFContentPack/releases/latest
 
-## Credits & Thanks
-Originally inspired by the 2019 “New York Scenic” pack on Diamond Aviators Net.  
-Rebuilt and expanded in 2025 by YOUR NAME / YOURUSERNAME with help from the New York GA community.
+### Installation instructions
+1. Download the file `HudsonRiverSFRAFFContentPack-vX.X.zip` on your iPad or iPhone  
+2. Tap the file – ForeFlight will open automatically and recognize the content pack  
+3. Tap "Import" (you can preview everything with "View" first)  
+4. Turn the layer on: Maps → Layers → Hudson River SFRA (bottom of the right column)
 
-## License
-Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)  
-Feel free to share, remix, and improve — just keep the credit.
+### Updating
+When a new version is released (NOTAM changes, updated coordinates, etc.), simply download and import the new ZIP.  
+ForeFlight will automatically replace the older version.
 
-Happy flying and happy shooting!
+### Contributing
+Found an error or have an improvement?  
+Open an issue or submit a pull request – contributions are always welcome!
 
-— YOUR NAME  
-GitHub: https://github.com/YOURUSERNAME  
-ForeFlight since 2015
+### Credits & Inspiration
+Inspired by the pioneering work of Forum user “Mark” who, around 2019, created the original “New York Scenic” content pack and generously shared it on Diamond Aviators Net — the first community pack many of us ever installed.  
+Original thread: https://www.diamondaviators.net/forum/viewtopic.php?t=6756  
+Thank you, Mark.
+
+### License
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Fly the corridor right the first time — see you over the Hudson!
